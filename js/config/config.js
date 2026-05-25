@@ -22,7 +22,7 @@ window.CONFIG = {
         victory: 'assets/sounds/victory.mp3',
         defeat: 'assets/sounds/defeat.mp3'
     },
-   GAME: {
+  GAME: {
         width: 800,
         height: 500,
         maxElixir: 10,
