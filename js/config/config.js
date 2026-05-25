@@ -22,12 +22,12 @@ window.CONFIG = {
         victory: 'assets/sounds/victory.mp3',
         defeat: 'assets/sounds/defeat.mp3'
     },
-    GAME: {
-        width: 900,
-        height: 600,
+   GAME: {
+        width: 800,
+        height: 500,
         maxElixir: 10,
         startElixir: 5,
-        elixirRegenRate: 2.8, // секунды на 1 эликсир
+        elixirRegenRate: 2.8,
         
         towers: {
     playerLeft: { x: 200, y: 420, maxHp: 1500, damage: 50, range: 110 },
